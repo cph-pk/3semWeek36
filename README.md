@@ -8,5 +8,6 @@
 * Cookies.png
 * SessionCookies.png
 * The_HTTP_Protocol.md
-
-[Link til cphper.dk](https://cphper.dk/home/)
+### Thursday and Friday
+Opsætning af ny Droplet med Docker og nginx server, domain og ssl sertifikat.
+[Link to cphper.dk](https://cphper.dk/home/)
