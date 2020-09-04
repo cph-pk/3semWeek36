@@ -11,4 +11,4 @@
 ### Thursday and Friday
 Opsætning af ny Droplet med Docker og nginx server, domain og ssl sertifikat.
 
-[Link to cphper.dk](https://cphper.dk/home/)
+[Link til cphper.dk](https://cphper.dk/home/)
